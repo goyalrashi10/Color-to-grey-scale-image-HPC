@@ -1,2 +1,2 @@
 # Color-to-grey-scale-image-HPC
-A parallelized solution to convert a color image into grayscale image
+To develop a parallelized solution to convert a color image into grayscale image. In this project, main objective is to generate a grayscale image by extracting features of a color image. Goal is to parallelize this task. Since processing an image pixel by pixel in sequential order will consume lot of time. By implementing a parallel system, I intend to make the task faster. It can be useful in many applications such as image processing, facial recognition, optical character recognition, etc.
